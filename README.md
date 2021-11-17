@@ -1,6 +1,6 @@
-# tictoc_app
+# Tic-Tac-Toe App
 
-A new Flutter project.
+A Flutter Game with provider
 
 ## Getting Started
 
